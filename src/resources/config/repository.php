@@ -116,7 +116,7 @@ return [
             |--------------------------------------------------------------------------
             |
             |
-            | Ex: http://prettus.local/?search=lorem&skipCache=true
+            | Ex: http://dayu.local/?search=lorem&skipCache=true
             |
             */
             'skipCache' => 'skipCache'

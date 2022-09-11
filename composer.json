@@ -30,7 +30,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Prettus\\Repository\\": "src/Prettus/Repository/"
+      "Dayu\\Repository\\": "src/Dayu/Repository/"
     }
   },
   "config": {
@@ -44,7 +44,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Prettus\\Repository\\Providers\\RepositoryServiceProvider"
+        "dayu\\Repository\\Providers\\RepositoryServiceProvider"
       ]
     }
   },
